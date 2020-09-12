@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026338678879",
+    "firebase_url": "https://flutterauthentication-963b212.firebaseio.com",
+    "project_id": "flutterauthentication-963b212",
+    "storage_bucket": "flutterauthentication-963b212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026338678879:android:7d815d58adf037294753ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026338678879-n35c1rmjknmkv5v4it4digvo58gsmf71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQGf40o_flKZkZwjsdSRgxiOQ1pAr-U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026338678879-n35c1rmjknmkv5v4it4digvo58gsmf71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026338678879-hsc2vrdq2ppesfstl0pbe14la0p6vm9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaselogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
